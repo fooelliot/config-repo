@@ -1,0 +1,2 @@
+spring.datasource.drivername=com.mysql.jdbc.Driver
+profile: test

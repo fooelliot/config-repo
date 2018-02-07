@@ -1,0 +1,3 @@
+spring: 
+	config: release
+profile: test
