@@ -1,3 +1,2 @@
-spring: 
-	config: release
-profile: test
+profile: release
+abc: def
