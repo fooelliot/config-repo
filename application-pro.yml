@@ -1,2 +1,3 @@
-profile: application-pro-label--master
+profile: pro
 name: application-pro.yml
+level: master

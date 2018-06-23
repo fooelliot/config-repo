@@ -1,2 +1,3 @@
-profile: application-rele-label--master
+profile: rele
 name: application-rele.yml
+level: master

@@ -1,2 +1,3 @@
-profile: application-dev-label--master
+profile: dev
 name: application-dev.yml
+level: master
